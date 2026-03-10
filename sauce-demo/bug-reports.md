@@ -15,6 +15,7 @@ Resultado esperado:
 O produto deveria ser removido diretamente da tela inicial.
 
 Severidade: Baixa
+![Evidência CT004](./evidences/CT004.webp)
 ---------------------------------------------------------------------------
 
 ## CT005 – Campo sobrenome sobrescreve o nome
@@ -31,6 +32,7 @@ Resultado esperado:
 Os campos devem funcionar separadamente.
 
 Severidade: Alta
+![Evidência CT005](./evidences/CT005.png)
 ---------------------------------------------------------------------------
 
 ##CT006 - Ordenação de produtos não funciona
@@ -46,4 +48,5 @@ Resultado esperado:
 Ao selecionar uma ordem, os produtos são listados de acordo com a ordem selecionada.
 
 Severidade: Média
+![Evidência CT006](./evidences/CT006.png)
 ---------------------------------------------------------------------------
